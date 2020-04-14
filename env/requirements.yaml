@@ -1,4 +1,7 @@
 dependencies:
+- name: ddd33
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: dddd3
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
