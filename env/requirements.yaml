@@ -26,11 +26,11 @@ dependencies:
 - name: ewew
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
-- alias: expose
+- alias: cleanup
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
-- alias: cleanup
+- alias: expose
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.118
@@ -47,6 +47,9 @@ dependencies:
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
 - name: sprint-boot-prom
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
+- name: sprint-boot-prom2
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
 - name: toto2
