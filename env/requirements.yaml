@@ -46,6 +46,9 @@ dependencies:
 - name: name4
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: sprint-boot-prom
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: toto2
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
