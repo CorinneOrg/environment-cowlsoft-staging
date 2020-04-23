@@ -40,6 +40,9 @@ dependencies:
 - name: name14
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
+- name: name18
+  repository: http://bucketrepo/bucketrepo/charts/
+  version: 0.0.1
 - name: name4
   repository: http://bucketrepo/bucketrepo/charts/
   version: 0.0.1
